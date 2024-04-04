@@ -19,8 +19,7 @@ a:hover {
     background-color: blueviolet;
     width: 75%;
     margin: 20px auto;
-    border: 5px soild black ;
-    border-radius: 10px;
+    border: 5px solid black;
 }
 h1, h2, h3 {
     text-align: center;
@@ -71,7 +70,7 @@ main img {
 .col {
     padding: 10px;
     margin: 10px;
-    border: 10px soild black;
+    border: 3px solid black;
     width: 33.33%;
     border-radius: 10px;
 }
