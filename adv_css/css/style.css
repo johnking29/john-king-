@@ -1,0 +1,82 @@
+/* global styles  */
+body{
+    background-color: aquamarine;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+a {
+    color: crimson;
+}
+
+a:hover {
+    color: crimson;
+    text-decoration: none;
+}
+#container {
+    background-color: blueviolet;
+    width: 75%;
+    margin: 20px auto;
+    border: 5px soild black ;
+    border-radius: 10px;
+}
+h1, h2, h3 {
+    text-align: center;
+    color: aquamarine;
+}
+
+
+/* desktop styles */
+
+nav {
+    background-color: black;
+    padding: 5px;
+    text-align: right;
+
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav li {
+    display: inline-block;
+}
+nav li a {
+    color: blueviolet;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+nav li a :hover {
+    color: antiquewhite ;
+}
+header h1 {
+    text-align: center;
+    font-size: 100px;
+    color: blue;
+    text-shadow: 2px 2px 2px black ;
+}
+main {
+    padding: 20px;
+}
+main img {
+    width: 50%;
+}
+#lower{
+    display: flex;
+}
+.col {
+    padding: 10px;
+    margin: 10px;
+    border: 10px soild black;
+    width: 33.33%;
+    border-radius: 10px;
+}
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+}
