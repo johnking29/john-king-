@@ -111,11 +111,11 @@ a {
  @media (min-width: 1024px) {
     #container {
         width: 65%;
-        display: flex;
+        
     }
     #lower {
        width: 100%;
-        display: flex;
+        display: flex ;
         
     }
     .col {
