@@ -110,12 +110,10 @@ a {
 
  @media (min-width: 1024px) {
     #container {
-        width: 65%;
-        
+        width: 100%;
     }
     #lower {
        width: 100%;
-       
         
     }
     .col {
