@@ -113,7 +113,8 @@ a {
         width: 100%;
     }
     #lower {
-       width: 100%;
+       width: 65%;
+       display: flex;
         
     }
     .col {
