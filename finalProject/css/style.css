@@ -2,14 +2,14 @@
 img {
     display: block;
     margin: 0% auto;
-    width: 200%;
+    width: 1000%;
 }
 body {
     background-color: whitesmoke;
 
 }
 #container {
-    background-color: aqua;
+    background-color: brown;
     padding: 20px;
 }
 h1,h2,h3 {
