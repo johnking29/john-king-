@@ -5,18 +5,18 @@ img {
     width: 200%;
 }
 body {
-    background-color: brown;
+    background-color: whitesmoke;
 
 }
 #container {
-    background-color: black;
+    background-color: aqua;
     padding: 20px;
 }
 h1,h2,h3 {
     text-align: center;
 }
 a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 .roboto-regular {
@@ -41,8 +41,8 @@ a {
     display: block;
     height: 40px;
     line-height: 40px;
-    color: black;
-    background-color: black;
+    color: brown;
+    background-color: red;
     text-align: center;
     margin: 5px 0;
     font-size: 20px;
